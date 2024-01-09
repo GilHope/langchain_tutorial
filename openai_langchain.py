@@ -1,4 +1,5 @@
 import os
+import openai
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -14,3 +15,7 @@ def get_completion(prompt, model=llm_model):
         temperature=0, 
     )
     return response.choices[0].message["content"]
+
+# Test the get_completion function
+result = get_completion("What is 1+1?")
+print(result)
