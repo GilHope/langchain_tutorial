@@ -10,3 +10,6 @@ This project was developed as part of my learning journey through the [LangChain
 - Handling responses from Large Language Models (LLMs).
 - Implementing functionalities like chat completion and question answering.
 
+## Prerequisites
+- Python 3.x
+- OpenAI API Key
