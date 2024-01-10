@@ -13,3 +13,6 @@ This project was developed as part of my learning journey through the [LangChain
 ## Prerequisites
 - Python 3.x
 - OpenAI API Key
+
+## Useful Resources
+- [LangChain v0.1.0 Launch: Agents](https://www.youtube.com/watch?v=08qXj9w-CG4)
