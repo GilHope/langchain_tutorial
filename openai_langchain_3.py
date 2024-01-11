@@ -85,3 +85,5 @@ service_messages = prompt_template.format_messages(
 # Translate service message
 service_response = chat(service_messages)
 print(service_response.content)
+
+# DEPRECATED
