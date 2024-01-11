@@ -1,3 +1,8 @@
+# Chat API : LangChain¶
+
+# Let's try how we can do the same using LangChain.
+
+
 import os
 import openai
 import datetime
