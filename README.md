@@ -16,3 +16,4 @@ This project was developed as part of my learning journey through the [LangChain
 
 ## Useful Resources
 - [LangChain v0.1.0 Launch: Agents](https://www.youtube.com/watch?v=08qXj9w-CG4)
+- [Memory in Agent](https://python.langchain.com/docs/modules/memory/agent_with_memory)
