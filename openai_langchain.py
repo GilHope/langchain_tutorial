@@ -1,3 +1,8 @@
+# Chat API : OpenAI
+
+# Let's start with a direct API calls to OpenAI.
+
+
 import os
 import openai
 from dotenv import load_dotenv
