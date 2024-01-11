@@ -49,6 +49,6 @@ text: ```{customer_email}```
 
 print(prompt)
 
-# Example call to your function
+# Example function call
 response = get_completion(prompt)
 print(response)
