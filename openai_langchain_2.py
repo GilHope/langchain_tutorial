@@ -1,9 +1,9 @@
 import os
 import openai
 import datetime
+from dotenv import load_dotenv, find_dotenv
 
 # Load OpenAI API key
-from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv()) # read local .env file
 openai.api_key = os.environ['OPENAI_API_KEY']
 
